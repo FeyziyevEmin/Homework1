@@ -1,3 +1,5 @@
+package lesson_1;
+
 public class HomeWork {
     public static void main(String[]args){
        int a=10;
