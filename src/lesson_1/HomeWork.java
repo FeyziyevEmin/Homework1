@@ -6,8 +6,6 @@ public class HomeWork {
        Integer b=a;
        Integer c=100;
        int d=c;
-
-
         System.out.println("a: " + a);
         System.out.println("b: " + b);
         System.out.println("c: " + c);
